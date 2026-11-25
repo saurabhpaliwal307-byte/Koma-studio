@@ -1,0 +1,8 @@
+{
+  "name": "Koma Studio",
+  "description": "Professional 2D animation production studio with frame-by-frame cel drawing, onion skinning, exposure sheets, skeletal rigging, multiplane camera, anime compositing VFX, audio lip-sync, and optional AI assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
